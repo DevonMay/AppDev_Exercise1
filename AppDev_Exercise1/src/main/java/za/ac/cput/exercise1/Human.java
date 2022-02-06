@@ -2,9 +2,9 @@ package za.ac.cput.exercise1;
 
 public class Human {
     private String firstName;
-    private byte age;
+    private int age;
 
-    public Human(String firstName, byte age) {
+    public Human(String firstName, int age) {
         this.firstName = firstName;
         this.age = age;
     }
@@ -17,11 +17,11 @@ public class Human {
         this.firstName = firstName;
     }
 
-    public byte getAge() {
+    public int getAge() {
         return age;
     }
 
-    public void setAge(byte age) {
+    public void setAge(int age) {
         this.age = age;
     }
 }
