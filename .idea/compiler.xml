@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AppDev_Exercise1" />
+        <module name="Maventdd" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AppDev_Exercise1" target="16" />
+      <module name="Maventdd" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
