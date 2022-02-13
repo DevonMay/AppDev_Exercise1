@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AppDev_Exercise1/AppDev_Exercise1.iml" filepath="$PROJECT_DIR$/AppDev_Exercise1/AppDev_Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maventdd.iml" filepath="$PROJECT_DIR$/Maventdd.iml" />
     </modules>
   </component>
 </project>
